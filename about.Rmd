@@ -3,3 +3,5 @@ title: "About"
 ---
 
 ## Team Members
+
+- [Julia Parish](https://github.com/juliaparish)
