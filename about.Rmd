@@ -3,3 +3,8 @@ title: "About"
 ---
 
 ## Team Members
+
+* Alex Vand
+* Julia Parish
+* Wylie Hampson
+* Shale Hunter
