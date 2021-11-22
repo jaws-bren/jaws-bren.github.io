@@ -4,6 +4,4 @@ title: "About"
 
 ## Team Members
 
-
-
 - [Wylie Hampson](https://github.com/wyliehampson)
