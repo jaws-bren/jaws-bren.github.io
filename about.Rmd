@@ -7,6 +7,3 @@ title: "About"
 
 - [Julia Parish](https://github.com/juliaparish)
 - [Shale Hunter](https://github.com/hub-shale)
-=======
-- [Wylie Hampson](https://github.com/wyliehampson)
->>>>>>> add-wyliehampson
