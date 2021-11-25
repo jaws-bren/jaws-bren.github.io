@@ -5,6 +5,6 @@ title: "About"
 ## Team Members
 
 - [Julia Parish](https://github.com/juliaparish)
-- [Shale Hunter](https://github.com/hub-shale)
+- [Alex Vand](https://github.com/alexvand24)
 - [Wylie Hampson](https://github.com/wyliehampson)
-
+- [Shale Hunter](https://github.com/hub-shale)
